@@ -10,7 +10,8 @@ The objective was to transform raw transactional data into actionable business i
 - Customer Experience
 - Logistics & Delivery
 - Seller Intelligence
-- Executive Business Reporting <br>
+- Executive Business Reporting
+  
 The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping stakeholders monitor performance, identify trends, and support data-driven decision-making.
 
 🛠 Tools & Technologies
@@ -23,29 +24,27 @@ The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping sta
 
 📈 Key Performance Indicators
 
-📄 Dashboard Pages
-1️⃣ Executive Overview
+## 📄 Dashboard Pages
+## 1️⃣ Executive Overview
 Provides a high-level summary of business performance through revenue trends, state-level analysis, payment behavior, and order distribution.
 ![Executive Overview](Screenshots/01_Executive%20Overview.png)
 
-2️⃣ Sales Performance
+## 2️⃣ Sales Performance
 Analyzes product category performance, revenue contribution, order volume, and pricing insights to identify top-performing categories.
 ![Sales Performance](Screenshots/02_Sales%20Performance.png)
 
-
-3️⃣ Customer Experience
+## 3️⃣ Customer Experience
 Evaluates customer satisfaction trends, review distributions, review scores by order status, and key customer feedback metrics.
 ![Customer Experience](Screenshots/03_Customer%20Experience.png)
 
-
-4️⃣ Logistics & Delivery
+## 4️⃣ Logistics & Delivery
 Monitors delivery efficiency, delivery timelines, customer satisfaction impact, and delivery performance across regions.
 ![Logistics & Delivery](Screenshots/04_Logistics%20%26%20Delivery.png)
 
-5️⃣ Seller Intelligence
+## 5️⃣ Seller Intelligence
 Provides insights into seller revenue distribution, seller performance, freight costs, and revenue concentration patterns.
 
-💡 Key Business Insights
+##💡 Key Business Insights
  - São Paulo generated the highest revenue contribution.
  - Credit cards dominated customer payment preferences.
  - 93.43% of orders were delivered on or before the promised date.
@@ -54,7 +53,7 @@ Provides insights into seller revenue distribution, seller performance, freight 
  - A small number of sellers generate a disproportionately large share of  total revenue.
 ![Seller Intelligence](Screenshots/05_Seller%20Intelligence.png)
 
-🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
  - Business Intelligence Reporting
  - Dashboard Design
  - KPI Development
@@ -64,7 +63,7 @@ Provides insights into seller revenue distribution, seller performance, freight 
  - Business Storytelling
  - Interactive Data Visualization
 
-📥 Dashboard File
+## 📥 Dashboard File
 The complete dashboard PDF can be found in the Dashboard folder of this repository.
 
 Author <br>
