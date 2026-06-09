@@ -77,4 +77,4 @@ The complete dashboard PDF can be found in the Dashboard folder of this reposito
 Aspiring Data Analyst | Power BI | SQL | Python
 
 📧 Email: mohammadnoor3008@gmail.com  
-💼 LinkedIn:[ your-linkedin-url](https://www.linkedin.com/in/noorakhtar30/)
+💼 LinkedIn: https://www.linkedin.com/in/noorakhtar30/
