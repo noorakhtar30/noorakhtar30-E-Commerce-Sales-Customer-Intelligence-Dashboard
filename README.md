@@ -1,6 +1,7 @@
+📊 E-Commerce Sales & Customer Intelligence Dashboard
+
 Built using Power BI, DAX, Power Query, and Data Modeling to analyze 99K+ orders, 96K+ customers, and 3K+ sellers.
 
-📊 E-Commerce Sales & Customer Intelligence Dashboard
 ## 📌 Project Overview
 This project presents a comprehensive 5-page Power BI Business Intelligence Dashboard built using the Olist Brazilian E-Commerce Dataset.
 
