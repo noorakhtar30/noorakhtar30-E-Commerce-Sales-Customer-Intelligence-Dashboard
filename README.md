@@ -27,18 +27,22 @@ The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping sta
 ## 📄 Dashboard Pages
 ## 1️⃣ Executive Overview
 Provides a high-level summary of business performance through revenue trends, state-level analysis, payment behavior, and order distribution.
+
 ![Executive Overview](Screenshots/01_Executive%20Overview.png)
 
 ## 2️⃣ Sales Performance
 Analyzes product category performance, revenue contribution, order volume, and pricing insights to identify top-performing categories.
+
 ![Sales Performance](Screenshots/02_Sales%20Performance.png)
 
 ## 3️⃣ Customer Experience
 Evaluates customer satisfaction trends, review distributions, review scores by order status, and key customer feedback metrics.
+
 ![Customer Experience](Screenshots/03_Customer%20Experience.png)
 
 ## 4️⃣ Logistics & Delivery
 Monitors delivery efficiency, delivery timelines, customer satisfaction impact, and delivery performance across regions.
+
 ![Logistics & Delivery](Screenshots/04_Logistics%20%26%20Delivery.png)
 
 ## 5️⃣ Seller Intelligence
@@ -51,6 +55,7 @@ Provides insights into seller revenue distribution, seller performance, freight 
  - Customer satisfaction declines significantly when delivery exceeds 20 days.
  - Positive reviews account for over 77% of customer feedback.
  - A small number of sellers generate a disproportionately large share of  total revenue.
+   
 ![Seller Intelligence](Screenshots/05_Seller%20Intelligence.png)
 
 ## 🎯 Skills Demonstrated
