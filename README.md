@@ -48,7 +48,7 @@ Monitors delivery efficiency, delivery timelines, customer satisfaction impact, 
 ## 5️⃣ Seller Intelligence
 Provides insights into seller revenue distribution, seller performance, freight costs, and revenue concentration patterns.
 
-##💡 Key Business Insights
+## 💡 Key Business Insights
  - São Paulo generated the highest revenue contribution.
  - Credit cards dominated customer payment preferences.
  - 93.43% of orders were delivered on or before the promised date.
