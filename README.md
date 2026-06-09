@@ -22,7 +22,7 @@ The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping sta
 - Data Visualization
 - Business Intelligence Reporting
 
-📈 Key Performance Indicators
+## 📈 Key Performance Indicators
 
 ## 📄 Dashboard Pages
 ## 1️⃣ Executive Overview
