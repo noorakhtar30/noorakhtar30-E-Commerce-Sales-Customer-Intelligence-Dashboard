@@ -10,8 +10,7 @@ The objective was to transform raw transactional data into actionable business i
 - Customer Experience
 - Logistics & Delivery
 - Seller Intelligence
-- Executive Business Reporting
-<br>
+- Executive Business Reporting <br>
 The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping stakeholders monitor performance, identify trends, and support data-driven decision-making.
 
 🛠 Tools & Technologies
