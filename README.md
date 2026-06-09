@@ -13,12 +13,12 @@ The objective was to transform raw transactional data into actionable business i
 The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping stakeholders monitor performance, identify trends, and support data-driven decision-making.
 
 🛠 Tools & Technologies
- *Power BI
- *DAX (Data Analysis Expressions)
- *Power Query
- *Data Modeling
- *Data Visualization
- *Business Intelligence Reporting
+- Power BI
+- DAX (Data Analysis Expressions)
+- Power Query
+- Data Modeling
+- Data Visualization
+- Business Intelligence Reporting
 
 📈 Key Performance Indicators
 
@@ -45,23 +45,23 @@ Monitors delivery efficiency, delivery timelines, customer satisfaction impact, 
 Provides insights into seller revenue distribution, seller performance, freight costs, and revenue concentration patterns.
 
 💡 Key Business Insights
- *São Paulo generated the highest revenue contribution.
- *Credit cards dominated customer payment preferences.
- *93.43% of orders were delivered on or before the promised date.
- *Customer satisfaction declines significantly when delivery exceeds 20 days.
- *Positive reviews account for over 77% of customer feedback.
- *A small number of sellers generate a disproportionately large share of  total revenue.
+ - São Paulo generated the highest revenue contribution.
+ - Credit cards dominated customer payment preferences.
+ - 93.43% of orders were delivered on or before the promised date.
+ - Customer satisfaction declines significantly when delivery exceeds 20 days.
+ - Positive reviews account for over 77% of customer feedback.
+ - A small number of sellers generate a disproportionately large share of  total revenue.
 ![Seller Intelligence](Screenshots/05_Seller%20Intelligence.png)
 
 🎯 Skills Demonstrated
- *Business Intelligence Reporting
- *Dashboard Design
- *KPI Development
- *Data Modeling
- *DAX Measure Creation
- *Data Cleaning & Transformation
- *Business Storytelling
- *Interactive Data Visualization
+ - Business Intelligence Reporting
+ - Dashboard Design
+ - KPI Development
+ - Data Modeling
+ - DAX Measure Creation
+ - Data Cleaning & Transformation
+ - Business Storytelling
+ - Interactive Data Visualization
 
 📥 Dashboard File
 The complete dashboard PDF can be found in the Dashboard folder of this repository.
