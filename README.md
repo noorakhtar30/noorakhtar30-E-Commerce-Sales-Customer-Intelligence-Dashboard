@@ -1,5 +1,5 @@
 📊 E-Commerce Sales & Customer Intelligence Dashboard
-📌 Project Overview
+## 📌 Project Overview
 This project presents a comprehensive 5-page Power BI Business Intelligence Dashboard built using the Olist Brazilian E-Commerce Dataset.
 
 The objective was to transform raw transactional data into actionable business insights across:
@@ -10,7 +10,7 @@ The objective was to transform raw transactional data into actionable business i
  *Executive Business Reporting
 The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping stakeholders monitor performance, identify trends, and support data-driven decision-making.
 
-🛠 Tools & Technologies
+##🛠 Tools & Technologies
  *Power BI
  *DAX (Data Analysis Expressions)
  *Power Query
