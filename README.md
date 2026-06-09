@@ -67,6 +67,6 @@ Provides insights into seller revenue distribution, seller performance, freight 
 📥 Dashboard File
 The complete dashboard PDF can be found in the Dashboard folder of this repository.
 
-Author
-Noor Akhtar
+Author <br>
+Noor Akhtar <br>
 Aspiring Data Analyst | Power BI | SQL | Python
