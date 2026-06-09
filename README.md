@@ -5,11 +5,11 @@ Built using Power BI, DAX, Power Query, and Data Modeling to analyze 99K+ orders
 This project presents a comprehensive 5-page Power BI Business Intelligence Dashboard built using the Olist Brazilian E-Commerce Dataset.
 
 The objective was to transform raw transactional data into actionable business insights across:
- *Sales Performance
- *Customer Experience
- *Logistics & Delivery
- *Seller Intelligence
- *Executive Business Reporting
+ ## *Sales Performance
+ ## *Customer Experience
+ ## *Logistics & Delivery
+ ## *Seller Intelligence
+ ## *Executive Business Reporting
 The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping stakeholders monitor performance, identify trends, and support data-driven decision-making.
 
 🛠 Tools & Technologies
