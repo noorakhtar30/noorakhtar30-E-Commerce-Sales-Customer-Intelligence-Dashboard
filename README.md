@@ -14,7 +14,7 @@ The objective was to transform raw transactional data into actionable business i
   
 The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping stakeholders monitor performance, identify trends, and support data-driven decision-making.
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 - Power BI
 - DAX (Data Analysis Expressions)
 - Power Query
@@ -22,7 +22,7 @@ The dashboard analyzes 99K+ orders, 96K+ customers, and 3K+ sellers, helping sta
 - Data Visualization
 - Business Intelligence Reporting
 
-📈 Key Performance Indicators
+## 📈 Key Performance Indicators
 
 ## 📄 Dashboard Pages
 ## 1️⃣ Executive Overview
